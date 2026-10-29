@@ -27,7 +27,7 @@ This folder is for learning and practice. The files document my progress with Py
 | `day5_week1_project.py`, `Conversion_currency_tracker.py` | Currency conversion practice projects |
 | `mombasa_weather.json` | Saved weather data used during practice |
 | `main.py` | Introductory Python practice |
-|`objectives.md` | Writing observable ojectives |
+|`objectives.md` | Writing observable objectives |
 
 The day numbers reflect the organization of the exercises in this folder, rather than a complete course syllabus.
 
