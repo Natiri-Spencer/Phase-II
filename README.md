@@ -4,16 +4,17 @@ This repository is my learning workspace for Phase II of the AI Masterclass, as 
 
 ## Purpose
 
-This folder is for learning and practice. The files document my progress with Python, APIs, data handling, and simple web interfaces. They are learning exercises and may be revised as my understanding grows.
+This folder is for learning and practice. The files document my progress with Python, APIs, Machine learning, JavaScript, data handling, and simple web interfaces. They are learning exercises and may be revised as my understanding grows.
 
 ## Learning Goals
 
 - Strengthen Python programming skills.
+- Strengthen JavaScript programming skills.
 - Understand how to request and use data from APIs.
 - Work with JSON responses and save data to files.
 - Practice handling user input and errors.
 - Connect a simple web interface to a Python server.
-- Build the confidence to demonstrate and explain technical concepts as an AI Educator.
+- Build lessons to demonstrate and explain technical concepts as an AI Educator.
 
 ## Learning Activities
 
